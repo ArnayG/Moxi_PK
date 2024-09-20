@@ -8,6 +8,7 @@ suppressPackageStartupMessages(pacman::p_load(
   broom,
   nlmixr2,
   pander,
+  rxode2,
   cowplot,
   kableExtra,
   tidyvpc,
